@@ -8,7 +8,7 @@
     <div align="center">
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2><br>
       <div style="margin: 0 auto; text-align: center;" align="center">
-          <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Front Stacks </h3>
+          <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💻 Front Stacks </h3>
           <br>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white">
@@ -16,19 +16,19 @@
           <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=Vue.js&logoColor=white">
           <img src="https://img.shields.io/badge/Redux-764ABC?style=plastic&logo=Redux&logoColor=white">
-          <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ CSS Framework </h3>
+          <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📱 CSS Framework </h3>
           <br>
           <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
           <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=Tailwind-CSS&logoColor=white">
-          <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ JavaScript Library </h3>
+          <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🗂️ JavaScript Library </h3>
           <br>
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white">
-          <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Back Stacks </h3>
+          <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛜 Back Stacks </h3>
           <br>
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white">
           <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white">
-          <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Database </h3>
+          <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔏 Database </h3>
           <br>
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
@@ -40,7 +40,7 @@
           <img src="https://img.shields.io/badge/Netlify-00C7B7?style=plastic&logo=Netlify&logoColor=white">
           <img src="https://img.shields.io/badge/Heroku-430098?style=plastic&logo=Heroku&logoColor=white">
           <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=plastic&logo=GitHub-Pages&logoColor=white">
-          <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Development Tools </h3>
+          <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ⛓️ Development Tools </h3>
           <br>
           <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
