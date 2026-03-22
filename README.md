@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 성장하는 개발자 Joon 입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 꾸준히 성장 하는 것을 좋아합니다.</li></li><li> 새로운 모험을 즐깁니다.</li></li><li> 안전하게 만드는 것을 고려합니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 꾸준히 성장 하는 것을 좋아합니다.</li></div> 
     </div>
     <div align="center">
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2><br>
